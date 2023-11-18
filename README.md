@@ -18,7 +18,16 @@ pnpm run test
 pnpm run storybook
 ```
 
-### Commit Convention
+## Tech Stack
+
+- Next14
+- TanStack Query(v5)
+- Jotai
+- Supabase
+- Jest
+- Storybook
+
+## Commit Convention
 
 - feat : 새로운 기능 추가
 - fix : 버그 수정
