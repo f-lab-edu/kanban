@@ -18,7 +18,16 @@ pnpm run test
 pnpm run storybook
 ```
 
-### Commit Convention
+## Skill Stack
+
+- Next(v14.0.2)
+- TypeScript(v5.0)
+- TanStack Query(v5.8.4)
+- Jotai(v2.5.1)
+- Stroybook(v7.6.0)
+- Jest(v29.7)
+
+## Commit Convention
 
 - feat : 새로운 기능 추가
 - fix : 버그 수정
@@ -27,3 +36,4 @@ pnpm run storybook
 - refactor : 코드 리펙토링
 - test : 테스트 코드, 리펙토링 테스트 코드 추가
 - chore : 빌드 업무 수정, 패키지 매니저 수정
+- add : 코드나 테스트, 예제, 문서등의 추가 생성이 있는경우
