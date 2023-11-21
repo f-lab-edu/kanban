@@ -37,3 +37,7 @@ pnpm run storybook
 - test : 테스트 코드, 리펙토링 테스트 코드 추가
 - chore : 빌드 업무 수정, 패키지 매니저 수정
 - add : 코드나 테스트, 예제, 문서등의 추가 생성이 있는경우
+
+## Memo
+
+[TanStack Query v5에서 변경사항](https://wonsss.github.io/library/tanstack-query-v5/)
