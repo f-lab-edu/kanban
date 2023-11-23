@@ -1,7 +1,7 @@
-type state = 'TASK_ARCHIVED'
+type State = 'TASK_ARCHIVED'
 
-type task = {
-  id: string;
-  title: string;
+type Task = {
+  id: string
+  title: string
   state: state
 }
